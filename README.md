@@ -83,9 +83,19 @@ grup 3
 
 ## 5
 ### A
-simple plot
+Simple plot
 ![image](https://user-images.githubusercontent.com/72655925/170875869-2bbfc19f-8475-4515-8e87-f4a4468bb2c7.png)
 
 ### B
-uji anova 2 arah
+Uji anova 2 arah
 ![image](https://user-images.githubusercontent.com/72655925/170875954-f1183b09-818e-4cbe-ab5e-c969ceb06b66.png)
+### C
+Tabel dengan mean dan standar deviasi cahaya
+![image](https://user-images.githubusercontent.com/72655925/170876124-0429dc96-ace2-4cc4-b8c9-8d429d46f6a9.png)
+### D
+Tukey test
+![image](https://user-images.githubusercontent.com/72655925/170876226-64be4423-ed57-4d2a-a2fb-0715918342dd.png)
+
+### E
+Compact Letter Display
+![image](https://user-images.githubusercontent.com/72655925/170876323-1c058b45-a49e-46b5-891e-01a0454ed38a.png)
